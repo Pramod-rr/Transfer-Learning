@@ -1,5 +1,5 @@
 those are repositories created using Transfer Learning 
 
-Text summarizing [https://huggingface.co/facebook/bart-large-cnn]
+Text summarizing [facebook/bart-large-cnn] (https://huggingface.co/facebook/bart-large-cnn)
 
-Tranlator [https://huggingface.co/JamesH/Translation_en_to_fr_project] translating english.srt file to franch.srt file
+Tranlator [translation_en_to_fr] (https://huggingface.co/JamesH/Translation_en_to_fr_project) translating english.srt file to franch.srt file
